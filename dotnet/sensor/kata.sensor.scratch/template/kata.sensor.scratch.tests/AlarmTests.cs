@@ -7,7 +7,7 @@ namespace kata.sensor.scratch.tests
     public class AlarmTests
     {
         [Fact]
-        public void Exemple()
+        public void Example()
         {
             // Arranges
             var random = new Random();
